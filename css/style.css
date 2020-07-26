@@ -1,0 +1,93 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.nav1{
+	background-color: #042128;
+	height: 55px;
+}
+
+.nav1 h3{
+	padding: 12px;
+	color:white;
+	font-size: 30px;
+}
+.container{
+	max-width: 1200px;
+	margin: auto;
+}
+.container h1{
+	padding-top:20px;
+	padding-left: 5px;
+	font-size: 40px;
+}
+.card{
+	border: 1px black solid;
+	width:22%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 12px;
+	background-color: #E6E7EB;
+
+}
+
+.card h3{
+	font-size: 22px;
+	text-decoration: underline;
+	padding-left: 35px;
+	padding-top: 25px;
+}
+.card h2{
+	font-size: 50px;
+	padding-left: 200px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color:#079075;
+	
+}
+.card p{
+	font-size: 26px;
+	padding-left: 35px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color:#079075;
+}
+.heading {
+	border: 1px black solid;
+	width: 92%;
+	float: left;
+	margin-top: 25px;
+	margin-left: 12px;
+	background-color: #E6E7EB;
+
+}
+.heading h3{
+	color: #079075;
+	padding: 3px;
+}
+.table{
+	float: left;
+	margin-left: 5px;
+	margin-top: 10px;
+	width: 96%;
+
+}
+.table th,td{
+	text-align: center;
+}
+.card1 {
+	width: 47%;
+	float: left;
+	padding-left: 5px;
+	padding-top: 30px;
+	border: 1px solid;
+	border-radius: 5px;
+	margin-left: 15px;
+	margin-top: 30px;
+}
+.color{
+	background-color: #079075;
+}
+.card1 h3{
+	font-size: 25px;
+}
